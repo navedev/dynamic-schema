@@ -1,0 +1,140 @@
+{
+    "sub_total": "39.80",
+    "tax": "0.00",
+    "fees": "0.00",
+    "services": "7.50",
+    "discount": "5.00",
+    "payment_total": "42.30",
+    "order_header_key": "202002190903163832975244",
+    "order_number": "4315500742",
+    "order_created_time": "2020-01-07T09:11:47-05:00",
+    "order_source": "Sterling Order",
+    "order_status": "Ready for Pick",
+    "business": "Sri_Org",
+    "order_purpose": null,
+    "customer_first_name": "Sridhar",
+    "customer_last_name": "S",
+    "entry_type": "LOWES_COM",
+    "customer_phone_no": "9972222002",
+    "customer_email_id": "kumar.tek@lowes.qa",
+    "preferred_contact": "",
+    "pro_indicator": "Yes",
+    "invoice_no": null,
+    "my_lowes_id": null,
+    "text_opt_in": null,
+    "payment_status": "AUTHORIZED",
+    "draft_order": "N",
+    "channel_id": "LFP_COM",
+    "selling_location": "6926",
+    "person_info_bill_to": {
+        "address_line_1": "2002 132nd St SE",
+        "address_line_2": "",
+        "city": "Mill Creek",
+        "company": null,
+        "country": "US",
+        "day_phone": null,
+        "email_id": null,
+        "first_name": null,
+        "last_name": null,
+        "middle_name": null,
+        "mobile_phone_no": null,
+        "state": "WA",
+        "zipcode": "98012"
+    },
+    "order_lines": {
+        "order_line": [
+            {
+                "delivery_method": "PICK",
+                "delivered_date": null,
+                "fulfillment_location": "6853",
+                "fulfillment_date": "2020-02-20T09:00:00-05:00",
+                "appointments": [],
+                "transfer_order_no": [],
+                "vendor_po_no": null,
+                "invoice_nos": [],
+                "orderline_shipnode": {
+                    "shipnode_person_info": {
+                        "address_line_1": "2002 132ND STREET S.E.",
+                        "address_line_2": "",
+                        "state": "WA",
+                        "city": "MILL CREEK",
+                        "country": "US",
+                        "day_phone": "4253858770",
+                        "day_fax_no": "4253571955",
+                        "zipcode": "98012"
+                    },
+                    "node_id": "6853",
+                    "description": "LOWE'S OF MILL CREEK, WA",
+                    "node_type": null
+                },
+                "item_desc": "20-Gram Super Glue Multipurpose Adhesive",
+                "item_id": "389",
+                "model_no": "78056",
+                "unit_price": "3.98",
+                "discount": null,
+                "order_line_key": "202002190903163832975263",
+                "prime_line_no": "1",
+                "item_group_code": "PROD",
+                "ordered_quantity": "10",
+                "line_type": "STK",
+                "line_total": null,
+                "line_status": "3350.0020",
+                "status": "Ready for Pick",
+                "line_status_desc": null,
+                "item_type": "STK",
+                "fulfillment_address": {
+                    "address_key": "201906210315463654106280",
+                    "address_line_1": "2002 132ND STREET S.E.",
+                    "address_line_2": "",
+                    "city": "MILL CREEK",
+                    "state": "WA",
+                    "zipcode": "98012",
+                    "country": "US"
+                },
+                "staging_location": [],
+                "procure_node": [],
+                "installer_edi_enabled": "N",
+                "min_line_status": "3350.0020",
+                "has_chained_lines": "",
+                "child_relationships": [],
+                "parent_relationships": null
+            }
+        ]
+    },
+    "notes": {
+        "note": [
+            {
+                "contact_time": "2020-02-20T02:10:33-05:00",
+                "contact_user": "10408",
+                "note_text": "Sridhar S requested to apply a coupon/promotion code.",
+                "user": {
+                    "organization_key": "LOWES",
+                    "username": "Kitchen And Bath Designer"
+                }
+            }
+        ],
+        "number_of_notes": "1"
+    },
+    "payment_methods": {
+        "payment_method": [
+            {
+                "display_card_number": "4853",
+                "credit_card_type": "VISA",
+                "max_charge_limit": "39.80",
+                "payment_type": "PREPAID_CARD_MTL",
+                "payment_reference_1": "Y"
+            },
+            {
+                "display_card_number": "5454",
+                "credit_card_type": "M/C",
+                "max_charge_limit": "7.50",
+                "payment_type": "CREDIT_CARD_MTL",
+                "payment_reference_1": "HANDKEYED"
+            }
+        ]
+    },
+    "original_total_amount": "39.80",
+    "tems_id": "",
+    "customer_po_no": null,
+    "extnIsGSAOrder": "N"
+}
