@@ -1,15 +1,11 @@
-/****************************************************************
- * Copyright (C) Lowe's Companies, Inc. All rights reserved. This file is for internal use only at
- * Lowe's Companies, Inc.
- ****************************************************************/
-package com.lowes.dynamicschema.model;
+package com.learning.dynamicschema.model;
 
 import java.util.List;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import lombok.Data;
 
 @Data
-public class IncomingTemplate {
+public class FullResponse {
 
   @JsonProperty(value = "order_header_key")
   private String orderHeaderKey;

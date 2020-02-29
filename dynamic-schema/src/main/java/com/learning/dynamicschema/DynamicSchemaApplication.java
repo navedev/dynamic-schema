@@ -1,4 +1,4 @@
-package com.lowes.dynamicschema;
+package com.learning.dynamicschema;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
